@@ -9,8 +9,6 @@ Cette application vous permet de surveiller automatiquement la disponibilité d'
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Fonctionnalités](#fonctionnalités)
-- [FAQ](#faq)
-- [Support et Contact](#support-et-contact)
 
 ## Introduction
 
