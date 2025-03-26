@@ -1,80 +1,70 @@
-Surveillance de Place - ASSE
-Bienvenue sur Surveillance de Place - ASSE !
+# Surveillance de Place - ASSE
+
+Bienvenue sur **Surveillance de Place - ASSE** !  
 Cette application vous permet de surveiller automatiquement la disponibilité d'une place sur le site de billetterie de l'ASSE et de recevoir une notification par e-mail dès qu'elle est disponible.
 
-Table des matières
-Introduction
+## Table des matières
 
-Installation
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [Fonctionnalités](#fonctionnalités)
+- [FAQ](#faq)
+- [Support et Contact](#support-et-contact)
 
-Utilisation
+## Introduction
 
-Fonctionnalités
-
-FAQ
-
-Support et Contact
-
-Introduction
-Surveillance de Place - ASSE a été conçue pour vous aider à ne jamais manquer l'ouverture de ventes de places pour un match de l'ASSE.
+**Surveillance de Place - ASSE** a été conçue pour vous aider à ne jamais manquer l'ouverture des ventes de places pour un match de l'ASSE.  
 En quelques clics, vous pouvez configurer l'application pour surveiller une page web spécifique et être averti immédiatement par e-mail dès qu'une place se libère.
 
-Installation
-Téléchargement
-Téléchargez l'installateur depuis le lien que nous vous avons communiqué.
-(Si vous n'avez pas encore reçu le lien, contactez l'administrateur.)
+## Installation
 
-Exécution de l'installateur
+1. **Téléchargement**  
+   Téléchargez l'installateur depuis le lien qui vous a été communiqué.
 
-Double-cliquez sur le fichier SurveillanceASSEInstaller.exe.
+2. **Exécution de l'installateur**  
+   Double-cliquez sur le fichier `SurveillanceASSEInstaller.exe`.  
+   Si l'UAC s'affiche, cliquez sur **"Oui"** pour autoriser l'installation.
 
-Si une fenêtre de contrôle de compte utilisateur (UAC) apparaît, cliquez sur "Oui" pour autoriser l'installation en mode administrateur.
+3. **Suivez l'assistant d'installation**  
+   L'installateur vous guidera à travers quelques étapes simples pour installer l'application.
 
-Suivre l'assistant d'installation
-L'installateur vous guidera à travers quelques étapes simples pour installer l'application sur votre ordinateur.
-Une fois l'installation terminée, des raccourcis seront créés dans le menu Démarrer et sur le bureau.
+## Utilisation
 
-Utilisation
-Lancer l'application
-Cliquez sur l'icône "Surveillance de Place ASSE" sur votre bureau ou dans le menu Démarrer.
+1. **Lancer l'application**  
+   Cliquez sur l'icône **"Surveillance de Place ASSE"** sur le bureau ou dans le menu Démarrer.
 
-Configurer la surveillance
-Une interface simple s'ouvre avec trois champs à remplir :
+2. **Configurer la surveillance**  
+   Remplissez les champs :
+   - **E-mail destinataire**
+   - **Nom de la place**
+   - **URL du match**
 
-E-mail destinataire :
-Entrez l'adresse e-mail à laquelle vous souhaitez recevoir la notification.
+3. **Démarrer la surveillance**  
+   Cliquez sur **"Démarrer la surveillance"**.
 
-Nom de la place :
-Saisissez le nom exact de la place à surveiller (ex. : "Tribune A", "Place VIP", etc.).
-Attention : Le nom doit correspondre exactement au texte affiché sur le site.
+4. **Arrêter la surveillance**  
+   Cliquez sur **"Arrêter la surveillance"** pour stopper le processus.
 
-URL du match :
-Indiquez l'URL de la page web du match où la disponibilité est indiquée.
+## Fonctionnalités
 
-Démarrer la surveillance
-Cliquez sur le bouton "Démarrer la surveillance".
-L'application vérifiera périodiquement la page web afin de détecter si la place recherchée est disponible.
+- **Surveillance automatique**
+- **Notification instantanée par e-mail**
+- **Interface intuitive**
 
-Arrêter la surveillance
-Pour arrêter la surveillance à tout moment, cliquez sur "Arrêter la surveillance".
-Vous pouvez ainsi contrôler facilement le démarrage et l'arrêt du processus de surveillance.
+## FAQ
 
-Notification
-Dès que la place spécifiée est détectée sur le site :
+**Q : Je ne reçois pas d'e-mail, que faire ?**  
+R : Vérifiez votre adresse e-mail et vos spams.
 
-Le navigateur s'ouvrira automatiquement sur la page concernée.
+**Q : Le nom de la place doit-il être exactement identique ?**  
+R : Oui, il doit correspondre exactement à celui affiché sur le site.
 
-Un e-mail de notification sera envoyé à l'adresse indiquée.
+## Support et Contact
 
-Fonctionnalités
-Surveillance automatique :
-L'application effectue des vérifications régulières pour détecter la disponibilité de la place sur le site.
+Pour toute assistance, contactez-nous à **support@votredomaine.com**.  
+Pour plus d'informations, consultez notre [page GitHub](https://github.com/Fababidu43?tab=repositories).
 
-Notification instantanée :
-Vous recevez immédiatement une alerte par e-mail dès qu'une place est détectée.
+---
 
-Interface intuitive :
-La configuration se fait via une interface simple et conviviale.
-
-Contrôle total :
-Démarrez et arrêtez la surveillance quand vous le souhaitez.
+Vous pouvez coller ce texte dans votre fichier `README.md` et l'adapter selon vos besoins. GitHub le rendra automatiquement avec une mise en forme agréable. N'hésitez pas à utiliser un éditeur Markdown (comme Visual Studio Code ou Typora) pour prévisualiser le rendu avant de le publier.
