@@ -37,8 +37,8 @@ En quelques clics, vous pouvez configurer l'application pour surveiller une page
 2. **Configurer la surveillance**  
    Remplissez les champs :
    - **E-mail destinataire**
-   - **Nom de la place**
-   - **URL du match**
+   - **Nom de la place** (Bien mettre le nom afficher dans la bourse des echanges exemples : KOP NORD , KOP SUD , TRIBUNE etc ...)
+   - **URL du match** (Bien mettre le lien de la bourse des echange du match exemples : https://billetterie.asse.fr/fr/second/match-asse-vs-paris/#bke235330c-zone )
 
 3. **Démarrer la surveillance**  
    Cliquez sur **"Démarrer la surveillance"**.
@@ -51,20 +51,3 @@ En quelques clics, vous pouvez configurer l'application pour surveiller une page
 - **Surveillance automatique**
 - **Notification instantanée par e-mail**
 - **Interface intuitive**
-
-## FAQ
-
-**Q : Je ne reçois pas d'e-mail, que faire ?**  
-R : Vérifiez votre adresse e-mail et vos spams.
-
-**Q : Le nom de la place doit-il être exactement identique ?**  
-R : Oui, il doit correspondre exactement à celui affiché sur le site.
-
-## Support et Contact
-
-Pour toute assistance, contactez-nous à **support@votredomaine.com**.  
-Pour plus d'informations, consultez notre [page GitHub](https://github.com/Fababidu43?tab=repositories).
-
----
-
-Vous pouvez coller ce texte dans votre fichier `README.md` et l'adapter selon vos besoins. GitHub le rendra automatiquement avec une mise en forme agréable. N'hésitez pas à utiliser un éditeur Markdown (comme Visual Studio Code ou Typora) pour prévisualiser le rendu avant de le publier.
